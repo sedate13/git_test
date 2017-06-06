@@ -1,0 +1,1 @@
+this is sedates first git project
